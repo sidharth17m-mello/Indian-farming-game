@@ -1,0 +1,16 @@
+{
+  "name": "Indian Farm Game — By Roots",
+  "short_name": "Farm Game",
+  "description": "A farming game to teach kids about Indian crops, seasons, and sustainable farming.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EAF6E0",
+  "theme_color": "#3F6B2C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
