@@ -1,4 +1,4 @@
-const CACHE_NAME = "farm-game-v2";
+const CACHE_NAME = "farm-game-v3";
 const CORE_ASSETS = ["./", "./index.html", "./manifest.json", "./bundle.js", "./styles.css"];
 
 self.addEventListener("install", (event) => {
